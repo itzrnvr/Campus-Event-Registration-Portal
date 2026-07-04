@@ -6,6 +6,16 @@ project.
 
 ---
 
+## Team Members
+
+| Name              | Enrollment No. |
+|-------------------|----------------|
+| Sanskar Singh     | E22CSEU0714    |
+| Dhawal Bharmoria  | E23CSEU1139    |
+| Dhruv Singh       | E23CSEU1085    |
+
+---
+
 ## 1. Project Overview
 
 The Campus Event Registration Portal is a multi-page website that lets
